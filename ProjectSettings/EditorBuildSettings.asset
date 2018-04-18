@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mainmenu.unity
+    guid: 07c8d70c84027b648991dbaa1db2fb86
+  - enabled: 1
+    path: Assets/secondmenu.unity
+    guid: 2bc82bd00b6288e40823e8959a8de78b
+  - enabled: 1
+    path: Assets/pokemon hockey.unity
+    guid: 2c92bd4a48729764f8da38d10de696a6
